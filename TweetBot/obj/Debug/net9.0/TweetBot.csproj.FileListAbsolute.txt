@@ -1,0 +1,54 @@
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\bin\Debug\net9.0\TweetBot.exe
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\bin\Debug\net9.0\TweetBot.deps.json
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\bin\Debug\net9.0\TweetBot.runtimeconfig.json
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\bin\Debug\net9.0\TweetBot.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\bin\Debug\net9.0\TweetBot.pdb
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\bin\Debug\net9.0\Autofac.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\bin\Debug\net9.0\Tweetinvi.Controllers.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\bin\Debug\net9.0\Tweetinvi.Core.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\bin\Debug\net9.0\Tweetinvi.Credentials.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\bin\Debug\net9.0\Tweetinvi.Logic.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\bin\Debug\net9.0\Tweetinvi.Security.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\bin\Debug\net9.0\Tweetinvi.Streams.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\bin\Debug\net9.0\Tweetinvi.WebLogic.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\bin\Debug\net9.0\Tweetinvi.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\obj\Debug\net9.0\TweetBot.csproj.AssemblyReference.cache
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\obj\Debug\net9.0\TweetBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\obj\Debug\net9.0\TweetBot.AssemblyInfoInputs.cache
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\obj\Debug\net9.0\TweetBot.AssemblyInfo.cs
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\obj\Debug\net9.0\TweetBot.csproj.CoreCompileInputs.cache
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\obj\Debug\net9.0\TweetBot.sourcelink.json
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\obj\Debug\net9.0\TweetBot.csproj.Up2Date
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\obj\Debug\net9.0\TweetBot.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\obj\Debug\net9.0\refint\TweetBot.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\obj\Debug\net9.0\TweetBot.pdb
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\obj\Debug\net9.0\TweetBot.genruntimeconfig.cache
+C:\Users\Anas Abubakar\Desktop\Bincom\X\TweetBot\obj\Debug\net9.0\ref\TweetBot.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\bin\Debug\net9.0\TweetBot.exe
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\bin\Debug\net9.0\TweetBot.deps.json
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\bin\Debug\net9.0\TweetBot.runtimeconfig.json
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\bin\Debug\net9.0\TweetBot.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\bin\Debug\net9.0\TweetBot.pdb
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\bin\Debug\net9.0\Autofac.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\bin\Debug\net9.0\Tweetinvi.Controllers.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\bin\Debug\net9.0\Tweetinvi.Core.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\bin\Debug\net9.0\Tweetinvi.Credentials.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\bin\Debug\net9.0\Tweetinvi.Logic.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\bin\Debug\net9.0\Tweetinvi.Security.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\bin\Debug\net9.0\Tweetinvi.Streams.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\bin\Debug\net9.0\Tweetinvi.WebLogic.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\bin\Debug\net9.0\Tweetinvi.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\obj\Debug\net9.0\TweetBot.csproj.AssemblyReference.cache
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\obj\Debug\net9.0\TweetBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\obj\Debug\net9.0\TweetBot.AssemblyInfoInputs.cache
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\obj\Debug\net9.0\TweetBot.AssemblyInfo.cs
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\obj\Debug\net9.0\TweetBot.csproj.CoreCompileInputs.cache
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\obj\Debug\net9.0\TweetBot.sourcelink.json
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\obj\Debug\net9.0\TweetBot.csproj.Up2Date
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\obj\Debug\net9.0\TweetBot.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\obj\Debug\net9.0\refint\TweetBot.dll
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\obj\Debug\net9.0\TweetBot.pdb
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\obj\Debug\net9.0\TweetBot.genruntimeconfig.cache
+C:\Users\Anas Abubakar\Desktop\Bincom\X - Copy\TweetBot\obj\Debug\net9.0\ref\TweetBot.dll
